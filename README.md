@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on my full stack development skills with java and typescript.
 
--  📫 How to reach me via my email: jeroenvg@gmail.com
+-  📫 How to reach me: via email, see my profile.
 
 # Screenshots
 ## Innovation tracker
